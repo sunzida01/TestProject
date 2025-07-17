@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-17T08:34:19 CDT" name="Default suite" finished-at="2025-07-17T08:34:35 CDT" duration-ms="15251">
+    <groups>
+    </groups>
+    <test started-at="2025-07-17T08:34:19 CDT" name="Default test" finished-at="2025-07-17T08:34:35 CDT" duration-ms="15251">
+      <class name="day4.tests.Start">
+        <test-method is-config="true" signature="launch()[pri:0, instance:day4.tests.Start@692f203f]" started-at="2025-07-17T08:34:19 CDT" name="launch" finished-at="2025-07-17T08:34:27 CDT" duration-ms="7919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="testScript3()[pri:0, instance:day4.tests.Start@692f203f]" started-at="2025-07-17T08:34:27 CDT" name="testScript3" finished-at="2025-07-17T08:34:34 CDT" duration-ms="6650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScript3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:day4.tests.Start@692f203f]" started-at="2025-07-17T08:34:34 CDT" name="teardown" finished-at="2025-07-17T08:34:35 CDT" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- day4.tests.Start -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
